@@ -1,2 +1,2 @@
-# Program
-Geant4
+# Gamma program for Geant4
+
