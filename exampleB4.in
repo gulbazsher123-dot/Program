@@ -1,0 +1,6 @@
+# exampleB4.in — gamma 100 MeV in G4_Pb 10cm
+/run/initialize
+/gun/particle gamma
+/gun/energy 100 MeV
+/run/printProgress 1000
+/run/beamOn 10000

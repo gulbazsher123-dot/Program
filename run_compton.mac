@@ -1,0 +1,6 @@
+# run_compton.mac — Cs-137 662 keV Compton validation
+/run/initialize
+/gun/particle gamma
+/gun/energy 0.662 MeV
+/run/printProgress 1000
+/run/beamOn 100000

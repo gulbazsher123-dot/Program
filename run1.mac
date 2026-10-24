@@ -1,0 +1,6 @@
+# run1.mac — gamma 100 MeV, Al+Pb+Al enclosed detector (test)
+/run/initialize
+/gun/particle gamma
+/gun/energy 100 MeV
+/run/printProgress 1000
+/run/beamOn 10000

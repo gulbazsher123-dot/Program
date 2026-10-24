@@ -1,0 +1,6 @@
+# run2.mac — gamma 100 MeV, 10^6 events (production)
+/run/initialize
+/gun/particle gamma
+/gun/energy 100 MeV
+/run/printProgress 10000
+/run/beamOn 1000000
